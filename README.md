@@ -12,7 +12,7 @@
   <p align = "center">
 - 📫 How to reach me **sreejeshmohan46@gmail.com**  </p>
   <p align = "center">
-- 📄 Know about my experiences [https://sreejeshmohan.tiiny.site](https://sreejeshmohan.tiiny.site)  </p>
+- 📄 Know about my experiences [https://sreejeshmohan.tiiny.site] </p>
   <p align = "center">
 - ⚡ Fun fact **sarcastic**  </p>
 
