@@ -5,6 +5,17 @@
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=sreejesh46&label=Profile%20views&color=b21515&style=plastic" align="center" alt="sreejesh46" />
   </p>
+  <p align = "center">
+  - 🌱 I’m currently learning **React,Figma,Mongo DB**  </p>
+  <p align = "center">
+- 💬 Ask me about **After Effects,Adobe Photoshop**  </p>
+  <p align = "center">
+- 📫 How to reach me **sreejeshmohan46@gmail.com**  </p>
+  <p align = "center">
+- 📄 Know about my experiences [https://sreejeshmohan.tiiny.site](https://sreejeshmohan.tiiny.site)  </p>
+  <p align = "center">
+- ⚡ Fun fact **sarcastic**  </p>
+
   
 <h3 align="center">Languages:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp;
