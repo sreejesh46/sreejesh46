@@ -1,4 +1,4 @@
-<img src="[https://giffiles.alphacoders.com/493/49363.gif](https://i.gifer.com/4xN8.gif)" alt="logo" width="100%">
+<img src="https://i.gifer.com/AxTs.gif" alt="logo" width="100%">
 
 <h1 align="center">Hi😎, I'm Sreejesh Mohan</h1>
 <h3 align="center">Passionate CSE Student | Front-End Developer | Enthusiastic about Design and Editing</h3>
