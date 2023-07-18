@@ -1,4 +1,4 @@
-<img src="https://www.icegif.com/wp-content/uploads/2021/12/icegif-112.gif" width=100% alt="sreejesh46" />
+<img src="https://68.media.tumblr.com/abbfb532557af50be67d956fa2bcddb7/tumblr_o4gkkm4it31roxwlmo1_1280.gif" width="100%" align="center" alt="sreejesh46" />
 <h1 align="center">Hi😎, I'm Sreejesh Mohan</h1>
 <h3 align="center">Passionate CSE Student | Front-End Developer | Enthusiastic about Design and Editing</h3>
 <p align="center"> 
