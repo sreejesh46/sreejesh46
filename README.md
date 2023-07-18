@@ -1,5 +1,4 @@
-<img src="https://i.gifer.com/AxTs.gif" alt="logo" width="100%">
-
+<img src="https://www.icegif.com/wp-content/uploads/2021/12/icegif-112.gif" width=100% alt="sreejesh46" />
 <h1 align="center">Hi😎, I'm Sreejesh Mohan</h1>
 <h3 align="center">Passionate CSE Student | Front-End Developer | Enthusiastic about Design and Editing</h3>
 <p align="center"> 
@@ -14,9 +13,7 @@
   <p align = "center">
 - 📄 Know about my experiences [https://sreejeshmohan.tiiny.site] </p>
   <p align = "center">
-- ⚡ Fun fact **sarcastic**  </p>
-
-  
+- ⚡ Fun fact **sarcastic**  </p>  
 <h3 align="center">Languages:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp;
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>&nbsp; 
