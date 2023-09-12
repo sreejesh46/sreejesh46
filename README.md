@@ -1,20 +1,20 @@
-<img src="https://www.mkgifs.com/wp-content/uploads/2022/05/Batman-gif-download.gif"  width="100%" alt="sreejesh46" />
-<h1 align="center">Hi😎, I'm Sreejesh Mohan</h1>
+<img src="https://media.tenor.com/zEZM9v0udjsAAAAC/the-batman-robert-pattinson.gif"  width="450px" height="400px" align="right" alt="sreejesh46" />&nbsp;&nbsp;
+<h1 align="center">Hey😎, I'm Sreejesh Mohan</h1>
 <h3 align="center">Passionate CSE Student | Front-End Developer | Enthusiastic about Design and Editing</h3>
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=sreejesh46&label=Profile%20views&color=b21515&style=plastic" align="center" alt="sreejesh46" />
   </p>
   <p align = "center">
-  - 🌱 I’m currently learning **React,Figma,Mongo DB**  </p>
+   •🌱 I’m currently learning **Js,Figma,Mongo DB**  </p>
   <p align = "center">
-- 💬 Ask me about **After Effects,Adobe Photoshop**  </p>
+• 💬 Ask me about  **After Effects,Adobe Photoshop**  </p>
   <p align = "center">
-- 📫 How to reach me **sreejeshmohan46@gmail.com**  </p>
+• 📫 How to reach me **sreejeshmohan46@gmail.com**  </p>
   <p align = "center">
-- 📄 Know about my experiences [https://sreejeshmohan.tiiny.site] </p>
+• 📄 Know about my experiences [https://sreejeshmohan.tiiny.site] </p>
   <p align = "center">
-- ⚡ Fun fact **sarcastic**  </p>  
-<h3 align="center">Languages:</h3>
+• ⚡ Fun fact **sarcastic**  </p>  <br><br><br><br>
+<h3 align="center">LANGUAGES🔆:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp;
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>&nbsp; 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp; 
@@ -23,20 +23,20 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp; 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>&nbsp; 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp;
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>&nbsp;
-<h3 align="center">Tools:</h3>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="center">TOOLS⛏️:</h3>
 <p align="center"> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/768px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" alt="photoshop" width="40" height="40"/> </a> &nbsp; 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/768px-Adobe_After_Effects_CC_icon.svg.png?20210519030120" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/768px-Adobe_After_Effects_CC_icon.svg.png?20210519030120" alt="photoshop" width="40" height="40"/> </a> &nbsp; 
-</p>&nbsp;
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/768px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" alt="photoshop" width="30" height="30"/> </a> &nbsp; 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/768px-Adobe_After_Effects_CC_icon.svg.png?20210519030120" alt="photoshop" width="30" height="30"/> </a> &nbsp;
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/768px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premierpro" width="30" height="30"/> </a> &nbsp; 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/330px-Visual_Studio_Code_Insiders_1.36_icon.svg.png" alt="vscode" width="30" height="30"/> </a> &nbsp; 
+</p> &nbsp;
 
 <h3 align="center">GITHUB Stats:</h3>
-<p align="center"> 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreejesh46&show_icons=true&theme=dracula&locale=en" alt="sreejesh46" />&nbsp<br><br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreejesh46&theme=dark" alt="sreejesh46"/>
+<p align="left"> 
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreejesh46&show_icons=true&theme=dracula&locale=en" alt="sreejesh46" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sreejesh46&theme=dark" alt="sreejesh46"/>
 </p>&nbsp;
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/sreejesh46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sreejesh46" height="30" width="40" /></a>&nbsp;&nbsp;
