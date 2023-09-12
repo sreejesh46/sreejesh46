@@ -33,9 +33,9 @@
 </p> &nbsp;
 
 <h3 align="center">GITHUB Stats:</h3>
-<p align="left"> 
+<p align="center"> 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreejesh46&show_icons=true&theme=dracula&locale=en" alt="sreejesh46" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sreejesh46&theme=dark" alt="sreejesh46"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreejesh46&theme=dark" alt="sreejesh46"/>
 </p>&nbsp;
 <h3 align="center">Connect with me:</h3>
 <p align="center">
