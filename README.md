@@ -7,7 +7,7 @@
   <p align = "center">
    •🌱 I’m currently learning **MERN STACK**  </p>
   <p align = "center">
-• 💬 Ask me about  **After Effects,Adobe Photoshop**  </p>
+• 💬 Ask me about  [After Effects,Adobe Photoshop]  </p>
   <p align = "center">
 • 📫 How to reach me **sreejeshmohan46@gmail.com**  </p>
   <p align = "center">
