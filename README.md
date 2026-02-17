@@ -11,7 +11,7 @@
   <p align = "center">
 • 📫 How to reach me **sreejeshmohan46@gmail.com**  </p>
   <p align = "center">
-• 📄 Know about my experiences [https://sreejeshmohan.tiiny.site] </p>
+• 📄 Know about my experiences [https://portfolio-mu-ten-70.vercel.app/] </p>
   <p align = "center">
 • ⚡ Fun fact **sarcastic**  </p>  <br><br>
 <h3 align="center">LANGUAGES🔆</h3>
@@ -24,9 +24,9 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <h3 align="center">TOOLS⛏️</h3>
 <p align="center"> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/768px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" alt="photoshop" width="30" height="30"/> </a> &nbsp; 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/768px-Adobe_After_Effects_CC_icon.svg.png?20210519030120" alt="photoshop" width="30" height="30"/> </a> &nbsp;
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/768px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premierpro" width="30" height="30"/> </a> &nbsp; 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"/768px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" alt="photoshop" width="30" height="30"/> </a> &nbsp; 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg"/768px-Adobe_After_Effects_CC_icon.svg.png?20210519030120" alt="photoshop" width="30" height="30"/> </a> &nbsp;
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Adobe_Premiere_Pro_CC_2026_icon.svg" alt="premierpro" width="30" height="30"/> </a> &nbsp; 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/330px-Visual_Studio_Code_Insiders_1.36_icon.svg.png" alt="vscode" width="30" height="30"/> </a> &nbsp; 
 </p> &nbsp;
 
