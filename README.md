@@ -1,6 +1,6 @@
 <img src="https://media.tenor.com/zEZM9v0udjsAAAAC/the-batman-robert-pattinson.gif"  width="450px" height="400px" align="right" alt="sreejesh46" />&nbsp;&nbsp;
 <h1 align="center">Hey😎, I'm Sreejesh Mohan</h1>
-<h3 align="center">Passionate CSE Student | Front-End Developer | Enthusiastic about Design and Editing</h3>
+<h3 align="center">Aspiring Software Engineer | Building Clean Interfaces | Driven by Design & Creative Editing</h3>
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=sreejesh46&label=Profile%20views&color=b21515&style=plastic" align="center" alt="sreejesh46" />
   </p>
