@@ -41,12 +41,13 @@ Aspiring Software Engineer • Front-End Developer • UI/UX & Video Editing Ent
 
 ### 🛠️ Tools & Creative Stack
 <p align="center">
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Cursor_logo.png" width="35"/></a>
+<a href="#"><img src="https://static.wikia.nocookie.net/logopedia/images/4/4a/Google_Antigravity_icon.svg" width="35"/></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="35"/></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="24"/></a>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="35"/></a>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="35"/></a>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="35"/></a>
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Adobe_Audition_CC_icon_%282020%29.svg/1280px-Adobe_Audition_CC_icon_%282020%29.svg.png?_=2020061612074" width="35"/></a>
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="25"/></a>
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="35"/></a>
 </p>
 
 ---
