@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F6FF&center=true&vCenter=true&width=580&lines=Shopify+Developer+Intern+%40+Poshlyf;Frontend+Developer+%26+UI%2FUX+Designer;Creative+Designer+%7C+Video+Editor;Building+High-Converting+Digital+Experiences" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sreejesh46&label=Profile%20Views&color=00f6ff&style=flat-square" alt="Profile Views" />
-</p>
 
 <br>
 
