@@ -10,7 +10,7 @@
         🌱 <b>Exploring:</b> React.js, Next.js & Full-Stack MERN<br>
         💬 <b>Ask me about:</b> Shopify Liquid, JavaScript, Figma, Premiere Pro & After Effects<br>
         📫 <b>Reach me:</b> <a href="mailto:sreejeshmohan46@gmail.com"><b>sreejeshmohan46@gmail.com</b></a><br>
-        🌐 <b>Portfolio:</b> <a href="https://portfolio-mu-ten-70.vercel.app/" target="_blank"><b>portfolio-mu-ten-70.vercel.app</b></a><br>
+        🌐 <b>Portfolio:</b> <a href="https://sreejeshmohan-portfolio.vercel.app/" target="_blank"><b>Sreejesh-Mohan-Portfolio</b></a><br>
         ⚡ <b>Fun fact:</b> Sarcastic & pixel-obsessed 😎
       </p>
       <p>
