@@ -11,7 +11,6 @@
         💬 <b>Ask me about:</b> Shopify Liquid, JavaScript, Figma, Premiere Pro & After Effects<br>
         📫 <b>Reach me:</b> <a href="mailto:sreejeshmohan46@gmail.com"><b>sreejeshmohan46@gmail.com</b></a><br>
         🌐 <b>Portfolio:</b> <a href="https://sreejeshmohan-portfolio.vercel.app/" target="_blank"><b>Sreejesh-Mohan-Portfolio</b></a><br>
-        ⚡ <b>Fun fact:</b> Sarcastic & pixel-obsessed 😎
       </p>
       <p>
         <img src="https://komarev.com/ghpvc/?username=sreejesh46&label=Profile%20Views&color=00f6ff&style=flat-square" alt="Profile Views" />
